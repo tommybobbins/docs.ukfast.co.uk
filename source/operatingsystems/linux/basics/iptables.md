@@ -51,7 +51,7 @@ The individual elements of the above commands are explained below
    Can also be given a range such as `192.168.0.0/24` or `192.168.0.0/255.255.255.0`.
 
 
-* **--dport**
+* ** --dport**
 
    Destination port that the rule relates to.
 
